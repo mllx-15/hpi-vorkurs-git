@@ -1,0 +1,7 @@
+src/secret_data.txt
+src/secret.txt
+__pycache__/
+*.pyc
+.env
+venv/
+
